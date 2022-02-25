@@ -5,7 +5,7 @@ def smtp_client(port=1025, mailserver='127.0.0.1'):
     msg = "\r\n NYU Tandon"
     endmsg = "\r\n.\r\n"
 
-   
+
 
     # TCP connection with mailserver
 
